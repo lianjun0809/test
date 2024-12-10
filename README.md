@@ -21,7 +21,7 @@ git clone https://github.com/TencentCloud/chat-demo-react-native.git
 ```
 
 ```shell
-cd chat-uikit-react-native/Demo
+cd chat-demo-react-native/Demo
 ```
 
 ```shell

@@ -17,9 +17,6 @@ end
 target 'ReactNativeDemo' do
   config = use_native_modules!
 
-  pod 'TXIMSDK_Plus_iOS_XCFramework'
-  pod 'TIMPush', '8.2.6325'
-
   use_react_native!(
     :path => config[:reactNativePath],
     # An absolute path to your application root.
