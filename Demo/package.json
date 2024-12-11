@@ -19,7 +19,6 @@
     "@rneui/themed": "^4.0.0-rc.8",
     "@stylistic/eslint-plugin": "^2.10.1",
     "@tencentcloud/chat-uikit-react-native": "latest",
-    "@tencentcloud/react-native-push": "^0.3.1",
     "react": "18.3.1",
     "react-native": "0.75.3",
     "react-native-document-picker": "^9.3.1",
