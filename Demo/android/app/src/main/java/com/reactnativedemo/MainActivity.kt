@@ -1,4 +1,4 @@
-package com.tencent.qcloud.tim.tuikit
+package com.ReactNativeDemo
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

@@ -7,7 +7,7 @@ import { StoreName, TUIStore, TUITranslateService } from '@tencentcloud/chat-uik
 import type { IRouterParams } from '../../interface';
 import { LogoutChat } from '../../initApp';
 
-import { Avatar } from '../../uikit';
+import { Avatar } from '@tencentcloud/chat-uikit-react-native';
 
 const rightArrow = require('../../assets/right_arrow.png');
 
