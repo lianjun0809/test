@@ -82,8 +82,7 @@ export const Setting = ({ navigation }: IRouterParams) => {
           </Text>
           <Text
             style={styles.text}
-            ellipsizeMode="tail"
-            numberOfLines={1}
+            numberOfLines={2}
           >
             {`ID: ${profile.userID}`}
           </Text>
