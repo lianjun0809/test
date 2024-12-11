@@ -28,13 +28,18 @@ git clone https://github.com/TencentCloud/chat-demo-react-native.git
 ```shell
 cd chat-demo-react-native/Demo
 ```
+#### use yarn
+```shell
+yarn install
+```
 
+#### use npm
 ```shell
 npm i --legacy-peer-deps
 ```
 
 #### Step 3：Secure SDKAppID and secretKey
-Set the relevant parameters `SDKAppID` and `SECRETKEY` in the example code of the debug/GenerateTestUserSig.js file:
+Set the relevant parameters `SDKAppID` and `SECRETKEY` in the example code of the `debug/GenerateTestUserSig.js` file:
 SDKAppID and SecretKey can be accessed by the [Chat Console](https://console.trtc.io/app):
 ![image](https://github.com/TencentCloud/chat-uikit-react/assets/57951148/09c7c16b-5ff8-4b2d-bb1b-b0bf72a754ed)
 
